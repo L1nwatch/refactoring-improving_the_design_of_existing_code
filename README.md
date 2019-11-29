@@ -1,2 +1,4 @@
-# refactoring-improving_the_design_of_existing_code
-【笔记】重构_改善既有代码的设计
+# 【笔记】重构_改善既有代码的设计
+
+由于 GitBook 开始收费，尝试自己本地服务器搭建一个 GitBook，然后跟以前的笔记库逻辑链接在一起。
+
